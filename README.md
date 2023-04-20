@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Github Contribution Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Github Contribution Clone is a project focused on cloning a Github Contribution component (just for fun).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `git clone https://github.com/AYOUBBASIDI/Github_Contribution_Clone.git`
+
+This command will clone the project to your local machine.
+
+### `npm install`
+
+This command will install all the dependencies needed to run the project.
 
 ### `npm start`
 
